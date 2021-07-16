@@ -8,7 +8,7 @@ What I'm Learning and what I plan to learn:
 
 - SQL Database
 - Data science concepts (Machine learning)
-  - Numpy, pandas, tensorflow, etc
+  - Numpy, pandas, tensorflow, matplotlib, etc
 - Python advanced concepts
 - ReactJS (Front end development)
 - Introductory C and C++ Concepts
